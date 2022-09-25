@@ -1,0 +1,20 @@
+.footerBg {
+  background-color: #081828;
+  padding: 80px 0px;
+}
+
+.footerFlex {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.footerBigflex {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+}

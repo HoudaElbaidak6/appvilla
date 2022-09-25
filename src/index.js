@@ -22,6 +22,10 @@ import Faq from "./Components/Faq/Faq";
 import Blog from "./Components/Blog/Blog";
 import singleBrand from "./Components/singleBrand/singleBrand";
 import PB from "./Components/PB/PB";
+import AppvillaFooter from "./Components/AppvillaFooter/AppvillaFooter";
+import LiFooter from "./Components/LiFooter/LiFooter";
+import Footer from "./Components/Footer/Footer";
+import FormFooter from "./Components/FormFooter/FormFooter";
 
 /* import logo from "./images/comment1.jpg";
 class App extends Component {
@@ -48,6 +52,7 @@ root.render(
     <InstallApp />
     <Faq />
     <PB />
+    <Footer />
   </React.StrictMode>
 );
 

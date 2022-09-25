@@ -1,0 +1,33 @@
+.fpfooter,
+.spfooter {
+  color: white;
+}
+
+.imgFooter {
+  width: 150px;
+}
+.iconcolor {
+  color: white;
+}
+
+.footerFtext {
+  width: 30%;
+  display: flex;
+  /*  justify-content: center;
+  align-items: center; */
+  flex-direction: column;
+  gap: 25px;
+}
+
+.fpfooter {
+  font-size: 1em;
+  width: 100%;
+}
+
+.iconFlex {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+  gap: 20px;
+}
