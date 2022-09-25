@@ -18,6 +18,11 @@ import { TeamCards } from "./Components/TeamCards/TeamCards";
 import { Team } from "./Components/Team/Team";
 import { Ayro } from "./Components/Ayro/Ayro";
 import InstallApp from "./Components/InstallApp/InstallApp";
+import Faq from "./Components/Faq/Faq";
+import Blog from "./Components/Blog/Blog";
+import singleBrand from "./Components/singleBrand/singleBrand";
+import PB from "./Components/PB/PB";
+
 /* import logo from "./images/comment1.jpg";
 class App extends Component {
   render() {
@@ -40,7 +45,9 @@ root.render(
     <PricingTitles />
     <Team />
     <Ayro />
-    <InstallApp/>
+    <InstallApp />
+    <Faq />
+    <PB />
   </React.StrictMode>
 );
 

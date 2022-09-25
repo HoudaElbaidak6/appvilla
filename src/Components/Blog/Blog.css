@@ -1,0 +1,75 @@
+.blogMain {
+  width: 400px;
+  border-radius: 5px;
+  /* outline: 1px solid lightgrey; */
+  box-shadow: 1px 1px 10px lightgray;
+}
+
+.imgteam {
+  width: 400px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.infoBlog {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.margin,
+.firstP,
+.fTitleblog {
+  margin: 0px;
+}
+
+/* .margin {
+  margin: 6px 0px;
+} */
+.firstP {
+  font-size: 1em;
+  margin-top: 10px;
+}
+.nameComment {
+  display: flex;
+  justify-content: flex-end;
+  /* align-items: flex-end; */
+  flex-direction: column;
+  gap: 8px;
+}
+.commentSection {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  flex-direction: row;
+  gap: 15px;
+}
+
+.imgcomment {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+.lastP {
+  margin: 0px;
+  font-size: 1em;
+}
+
+.name {
+  font-size: 1em;
+  margin: 0px;
+}
+.date {
+  font-size: 0.9em;
+  margin: 0px;
+}
+
+.fTitleblog {
+  color: #ff6b81;
+}
+
+.margin {
+  font-weight: 700;
+}

@@ -7,3 +7,9 @@
 .bgpinkContent {
   text-align: center;
 }
+
+.contentP {
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}

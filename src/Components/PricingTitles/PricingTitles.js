@@ -1,6 +1,6 @@
 import { Component } from "react";
 import "./PricingTitles.css";
-import { Titles } from "../Titles/Titles";
+import Titles from "../Titles/Titles";
 import LongCard from "../LongCard/LongCard";
 
 export class PricingTitles extends Component {

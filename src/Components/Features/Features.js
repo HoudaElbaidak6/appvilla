@@ -1,6 +1,6 @@
 import { Component } from "react";
 import "./Features.css";
-import { Titles } from "../Titles/Titles";
+import Titles from "../Titles/Titles";
 import Cards from "../Cards/Cards.js";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {

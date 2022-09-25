@@ -12,7 +12,7 @@ class InstallApp extends Component {
             title="Install Appvilla and Start Using"
             paragraph="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
           />
-          <div className="buttonsInstall">
+          <div className="buttonsInstall py-3">
             <Buttons />
             <div />
           </div>

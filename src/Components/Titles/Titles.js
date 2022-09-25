@@ -1,7 +1,7 @@
 import { Component } from "react";
 import "./Titles.css";
 
-export class Titles extends Component {
+class Titles extends Component {
   render() {
     return (
       <div className="titles mb-5">
@@ -12,3 +12,4 @@ export class Titles extends Component {
     );
   }
 }
+export default Titles;

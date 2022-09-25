@@ -1,6 +1,6 @@
 import { Component } from "react";
 import "./Team.css";
-import { Titles } from "../Titles/Titles";
+import Titles from "../Titles/Titles";
 import { TeamCards } from "../TeamCards/TeamCards";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin, faTwitter } from "@fortawesome/free-brands-svg-icons";
