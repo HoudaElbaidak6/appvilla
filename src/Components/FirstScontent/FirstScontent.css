@@ -1,0 +1,22 @@
+.bgMax {
+  height: 85vh;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+  width: 40%;
+}
+
+h1 {
+  font-weight: bold;
+  color: white;
+}
+p {
+  color: white;
+  font-size: 1.1em;
+  /* width: 90%; */
+}

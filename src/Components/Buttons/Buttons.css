@@ -1,0 +1,46 @@
+.buttons {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.buttonF,
+.buttonS {
+  padding: 10px 35px;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 1.1em;
+  transition: all ease 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.buttonF {
+  background-color: white;
+  color: #ff6b81;
+  border: 3px solid white;
+}
+.buttonF:hover {
+  background-color: black;
+  color: white;
+  border: 3px solid black;
+}
+.buttonS {
+  border: 3px solid white;
+  background-color: #ff6b81;
+  color: white;
+}
+
+.buttonS:hover {
+  background-color: #ffffff;
+  color: #ff6b81;
+  border: 3px solid #fffdfd;
+}
+
+.icon-size {
+  font-size: 1.2em;
+}

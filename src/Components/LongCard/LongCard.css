@@ -1,0 +1,35 @@
+.longcard {
+  width: 20%;
+
+  border: 1px solid black;
+}
+.firstSection {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  flex-direction: column;
+  gap: 10px;
+}
+.price {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: flex-end;
+}
+.price > h1 {
+  color: black;
+}
+
+.firstSection > p {
+  color: black;
+  font-size: 0.8em;
+}
+.firstSection > button {
+  padding: 10px 30px;
+  background-color: black;
+  border-radius: 5px;
+  color: white;
+}
+.secondSection {
+  border-top: 1px solid black;
+}

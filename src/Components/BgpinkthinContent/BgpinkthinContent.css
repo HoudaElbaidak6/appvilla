@@ -1,0 +1,9 @@
+/* .bgpinkContent > h1,
+.bgpinkContent > p {
+  padding: 0px;
+  margin: 0px;
+} */
+
+.bgpinkContent {
+  text-align: center;
+}

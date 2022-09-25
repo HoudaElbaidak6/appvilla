@@ -1,0 +1,25 @@
+.navbar {
+  background-color: #ff6b81;
+}
+
+.nav-link {
+  font-weight: bold;
+  color: white;
+}
+.btn-color {
+  color: white;
+  font-weight: 600;
+  font-size: 1.1em;
+  padding: 10px 25px;
+  border: 2px solid white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: all ease 0.3s;
+}
+
+.btn-color:hover {
+  background-color: white;
+  padding: 10px 25px;
+  border: 2px solid white;
+  color: #ff6b81;
+}
