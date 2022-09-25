@@ -1,6 +1,6 @@
 import { Component } from "react";
 import "./FirstScontent.css";
-import { Buttons } from "../Buttons/Buttons";
+import Buttons from "../Buttons/Buttons";
 import imgF from "../../images/phone.png";
 class FirstScontent extends Component {
   render() {

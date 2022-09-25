@@ -1,0 +1,44 @@
+.bgAyro {
+  background-color: #f8f8f8;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.ayrosize {
+  width: 100px;
+}
+
+.ayroperson {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.flex > p {
+  color: black;
+  width: 60%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.1em;
+}
+
+.secondP {
+  font-size: 0.8em;
+}
+.person {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.person > h6 {
+  margin: 0px;
+}

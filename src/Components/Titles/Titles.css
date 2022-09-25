@@ -1,0 +1,26 @@
+.titles {
+    margin: auto;
+    padding: 0px 300px;
+    text-align: center;
+  }
+  
+  h5 {
+    color: #ff6b81;
+    margin: 20px 0px;
+  }
+  
+  .titles > h1 {
+    font-size: 2em;
+    /* width: 50%;
+    margin: auto;
+  
+    text-align: center; */
+  }
+  .titles > h1,
+  .titles > p {
+    color: black;
+    margin: 20px 0px;
+  }
+  .titles > p {
+    font-size: 1em;
+  }

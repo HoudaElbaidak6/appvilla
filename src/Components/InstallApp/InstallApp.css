@@ -1,0 +1,14 @@
+.installFlex {
+  background-color: #ff6b81;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 50px;
+}
+
+/* .buttonsInstall {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */

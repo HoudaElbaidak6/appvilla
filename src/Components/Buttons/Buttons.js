@@ -3,7 +3,7 @@ import "./Buttons.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faApple, faGooglePlay } from "@fortawesome/free-brands-svg-icons";
 
-export class Buttons extends Component {
+class Buttons extends Component {
   render() {
     return (
       <div className="buttons">
@@ -19,3 +19,5 @@ export class Buttons extends Component {
     );
   }
 }
+
+export default Buttons;

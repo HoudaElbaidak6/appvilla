@@ -4,6 +4,7 @@ import "./index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./Components/Navbar/Navbar.js";
 import Bgpink from "./Components/Bgpink/Bgpink.js";
+import { Titles } from "./Components/Titles/Titles";
 import Features from "./Components/Features/Features.js";
 import Cards from "./Components/Cards/Cards";
 import Textwpic from "./Components/Textwpic/Textwpic";
@@ -11,7 +12,12 @@ import MainTextwpic from "./Components/MainTextwpic/MainTextwpic";
 import MainTextwpicS from "./Components/MainTextwpicS/MainTextwpicS";
 import BgpinkthinContent from "./Components/BgpinkthinContent/BgpinkthinContent";
 import { BgpinkF } from "./Components/BgpinkF/BgpinkF";
+import { PricingTitles } from "./Components/PricingTitles/PricingTitles";
 import LongCard from "./Components/LongCard/LongCard";
+import { TeamCards } from "./Components/TeamCards/TeamCards";
+import { Team } from "./Components/Team/Team";
+import { Ayro } from "./Components/Ayro/Ayro";
+import InstallApp from "./Components/InstallApp/InstallApp";
 /* import logo from "./images/comment1.jpg";
 class App extends Component {
   render() {
@@ -31,7 +37,10 @@ root.render(
     <MainTextwpic />
     <MainTextwpicS />
     <BgpinkF />
-    <LongCard/>
+    <PricingTitles />
+    <Team />
+    <Ayro />
+    <InstallApp/>
   </React.StrictMode>
 );
 

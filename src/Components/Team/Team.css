@@ -1,11 +1,11 @@
-.mainDiv {
+/* .bgTeam {
   background-color: #f8f8f8;
-}
+} */
 
-.divcardflex {
+.teamCardsflex {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 40px;
   flex-direction: row;
+  gap: 20px;
 }

@@ -1,0 +1,51 @@
+.teamcard {
+  width: 400px;
+  outline: 1px solid lightgray;
+  border-radius: 5px;
+}
+
+.teaminfo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  padding: 10px;
+}
+.teamName {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 5px;
+}
+.teamName > h6 {
+  font-weight: 700;
+  color: black;
+  margin: 0px;
+  text-align: start;
+}
+
+.teamName > p {
+  font-weight: 300;
+  color: #ff6b81;
+  font-size: 1em;
+  margin: 0px;
+  text-align: start;
+}
+.iconFlex {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+  gap: 10px;
+}
+.teamicon {
+  font-size: 1em;
+  color: grey;
+}
+
+.imgteam {
+  width: 400px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}

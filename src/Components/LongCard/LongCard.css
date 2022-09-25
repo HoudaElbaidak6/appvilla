@@ -1,7 +1,8 @@
 .longcard {
-  width: 20%;
-
-  border: 1px solid black;
+  width: 30%;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 1px 1px 10px lightgray;
 }
 .firstSection {
   display: flex;
@@ -19,11 +20,16 @@
 .price > h1 {
   color: black;
 }
+.firstSection > h5 {
+  color: black;
+  font-size: 1.2em;
+}
 
 .firstSection > p {
   color: black;
-  font-size: 0.8em;
+  font-size: 1em;
 }
+
 .firstSection > button {
   padding: 10px 30px;
   background-color: black;
@@ -31,5 +37,12 @@
   color: white;
 }
 .secondSection {
-  border-top: 1px solid black;
+  border-top: 1px solid lightgray;
+}
+
+.insideS > p {
+  margin-left: 16px;
+  font-size: 0.8em;
+  font-weight: 700;
+  color: black;
 }
