@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/appvilla/static/css/main.dc087507.css",
+    "main.js": "/appvilla/static/js/main.98f111d9.js",
+    "static/media/phone.png": "/appvilla/static/media/phone.ffd52d29fb96c67334ba.png",
+    "static/media/team3.jpg": "/appvilla/static/media/team3.724ff5f81f15127759f9.jpg",
+    "static/media/team2.jpg": "/appvilla/static/media/team2.3afcbfe5c5c27625eb45.jpg",
+    "static/media/blog-1.jpg": "/appvilla/static/media/blog-1.99fafa7de260d95358e1.jpg",
+    "static/media/blog-2.jpg": "/appvilla/static/media/blog-2.bd7e60e6dcbbda855d1d.jpg",
+    "static/media/app-ss1.png": "/appvilla/static/media/app-ss1.48d557719b54221ff1ee.png",
+    "static/media/team1.jpg": "/appvilla/static/media/team1.18767c1460635e1058bf.jpg",
+    "static/media/app-ss2.png": "/appvilla/static/media/app-ss2.44913725a39cc9d39df4.png",
+    "static/media/blog-3.jpg": "/appvilla/static/media/blog-3.697e31d045cfb5dc7937.jpg",
+    "static/media/testi1.jpg": "/appvilla/static/media/testi1.4db875ece49145c0a793.jpg",
+    "static/media/graygrids-logo.svg": "/appvilla/static/media/graygrids-logo.2f1a08e47407ee0afec9f22e07bad829.svg",
+    "static/media/lineicons-logo.svg": "/appvilla/static/media/lineicons-logo.43caec6a8e6e111e984e3328b9d9f234.svg",
+    "static/media/pagebulb-logo.svg": "/appvilla/static/media/pagebulb-logo.782b193ca4cc57cfdb991f12c5d51ca1.svg",
+    "static/media/white-logo.svg": "/appvilla/static/media/white-logo.d04ace82de995eb865e0207deb2df1c5.svg",
+    "static/media/brand2.svg": "/appvilla/static/media/brand2.b5d741c2871c3e7e54d7749104d36d55.svg",
+    "index.html": "/appvilla/index.html",
+    "main.dc087507.css.map": "/appvilla/static/css/main.dc087507.css.map",
+    "main.98f111d9.js.map": "/appvilla/static/js/main.98f111d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc087507.css",
+    "static/js/main.98f111d9.js"
+  ]
+}
